@@ -1,4 +1,4 @@
-# CineConvert - Professional Video Converter
+# CineConvert (Alfa) - Professional Video Converter
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![PyQt6](https://img.shields.io/badge/GUI-PyQt6-green)

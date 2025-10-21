@@ -36,7 +36,7 @@ A modern, user-friendly video conversion application with powerful batch process
 ## 🚀 Quick Start
 
 ### Download
-1. Go to [Releases page](https://github.com/yourusername/CineConvert/releases)
+1. Go to [Releases page](https://github.com/bboyJohnn/CineConvert/releases/download/video-converter/CineConvert.0.04alf.exe)
 2. Download the latest `CineConvert.exe`
 3. Run the executable - no installation required!
 
@@ -92,17 +92,3 @@ The application features a tab-based interface:
 | **Video Codecs** | H.264, H.265, VP9, AV1, NVIDIA NVENC |
 | **Audio Codecs** | AAC, MP3, FLAC, Opus, AC3 |
 
-## 🛠️ For Developers
-
-### Building from Source
-
-```bash
-# Clone repository
-git clone https://github.com/yourusername/CineConvert.git
-cd CineConvert
-
-# Install dependencies
-pip install PyQt6
-
-# Build executable
-pyinstaller --onefile --windowed --add-data "locales;locales" CineConvert.py
